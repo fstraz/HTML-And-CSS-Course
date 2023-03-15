@@ -1,0 +1,7 @@
+ol {
+	List-style-type: Upper-roman;
+}
+
+ul {
+	List-style-type: Square;
+}
