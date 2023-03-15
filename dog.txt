@@ -7,7 +7,7 @@
 	<body>
 		<p> It's All About DOGS!<!p>
 		<h1> "CUTE DOGS!" </h1>
-			<img src="Images/dog67.jpeg">
+			<img src="dog67.jpeg">
 	</body>
 <footer>
 <main>
