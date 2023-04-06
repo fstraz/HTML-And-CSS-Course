@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+	<title> Backyard Chickens! </title>
+	</head>
+	<!--nav-->
+			<div>
+				<ul>
+					<a href="#home" id "link"><li>Home</li>
+					<a href="#photos"><li> Photos</li>
+					<a href="#contact"><li> Contact Us </li>
+				</ul>
+			</div>
+			<!-- End NAV-->
+			
+			<!--HOME-->
+			<div id="HOME">
+				<Div>
+					<div>
+						<span> Backyard Chickens!</span>
+					</div>
+				</div>
+				<!--end home-->
+				<!--Photos-->
+				<section>
+					<div id= "Gallery">
+						<h1>Galley</h1>
+						<div>
+						
+					<!-- Photo Container 1-->  
+						<div>
+							<div>
+								<img src="./images/thumb/thumbnail_1.jpg" alt="">
+								<div>
+								<h3> Click to Enlarge<h3>
+								<p> We have several space launches departing daily. Book your flight today!</p>
+							</div>
+						</div>
+					</div>
+					<!--End of Photo Container 1-->
+					<!-- Photo Container2-->
+						<div>
+							<div>
+							<img src="./images/thumb/thumbnail_2/jpg" alt="">
+							<div>
+								<h3> Click to Enlarge<h3>
+								<p> We have several space launches departing daily. Book your flight today!</p>
+							</div>
+						</div>
+					</div>
+					<!--End of Photo Container 2-->
+					<!-- Photo Container3-->
+						<div>
+							<div>
+							<img src="./images/thumb/thumbnail_3.jpg" alt="">
+							<div>
+								<h3> Click to Enlarge<h3>
+								<p> We have several space launches departing daily. Book your flight today!</p>
+							</div>
+						</div>
+					</div>
+					<!--End of Photo Container 3-->
+					<!-- Photo Container4-->
+						<div>
+							<div>
+							<img src="./images/thumb/thumbnail_4.jpg" alt="">
+							<div>
+								<h3> Click to Enlarge<h3>
+								<p> We have several space launches departing daily. Book your flight today!</p>
+							</div>
+						</div>
+					</div>
+					<!--End of Photo Container 4-->
+					<!-- Photo Container5-->
+						<div>
+							<div>
+							<img src="./images/thumb/thumbnail_5.jpg" alt="">
+						<div>
+								<h3> Click to Enlarge<h3>
+								<p> We have several space launches departing daily. Book your flight today!</p>
+							</div>
+						</div>
+					</div>
+					<!--End of Photo Container 5-->
